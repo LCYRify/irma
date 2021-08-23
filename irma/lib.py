@@ -1,3 +1,5 @@
+import random
+
 def try_me():
 
     name = input("Enter your name : ")
